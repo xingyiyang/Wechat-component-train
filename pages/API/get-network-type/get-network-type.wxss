@@ -1,0 +1,4 @@
+/* pages/API/get-network-type/get-network-type.wxss */
+.page-body-text-network-type {
+  font-size: 80rpx;
+}

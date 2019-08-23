@@ -1,0 +1,5 @@
+/* pages/component/component-pages/wx-picker/wx-picker.wxss */
+.picker{
+    padding: 13px;
+    background-color: #FFFFFF;
+}

@@ -1,0 +1,9 @@
+/* pages/component/component-pages/wx-label/wx-label.wxss */
+.label-1, .label-2{
+    margin-bottom: 15px;
+}
+
+.label-4_text{
+    text-align: center;
+    margin-top: 15px;
+}

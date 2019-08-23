@@ -1,0 +1,5 @@
+/* pages/component/component-pages/wx-button/wx-button.wxss */
+.page__bd{
+  padding-left: 30rpx;
+  padding-right: 30rpx; 
+}

@@ -1,0 +1,12 @@
+/* pages/component/component-pages/wx-text/wx-text.wxss */
+.section{
+  padding: 50rpx;
+}
+.show__text{
+  margin-bottom: 50rpx;
+}
+.btn-area{
+  position: fixed;
+  bottom: 20rpx;
+  align-content: center;
+}
